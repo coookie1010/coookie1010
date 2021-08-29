@@ -14,4 +14,3 @@ I'm former security specialist for many years and decide to quit and focus on ga
 
 📫 How to reach me: Discord: lego1010#5271
 ```
-![Cookies's GitHub stats](https://github-readme-stats.vercel.app/api?username=coookie1010&theme=dark&show_icons=true)
