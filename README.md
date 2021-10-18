@@ -14,3 +14,5 @@ I'm former security specialist for many years and decide to quit and focus on ga
 
 📫 How to reach me: Discord: lego1010#5271
 ```
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N26EMH5)
