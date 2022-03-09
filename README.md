@@ -8,7 +8,6 @@ I'm former security specialist for many years and decide to quit and focus on ga
 🔎 Main interests in Game Development such as FiveM, Ragnarok Online, Mobile Game Development.
 🔭 Working on Deep Learning based Network solutions
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Known languages: C/C++, Java, Lua, Php
 💻 I like to do system administrator stuffs
 🚩 Interested in network security and game development
 
