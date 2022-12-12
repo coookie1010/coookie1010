@@ -1,7 +1,7 @@
 Hi there I'm Coookie
 I've been practicing coding as a hobby for 14 years now.
 
-I'm former security specialist for many years and decide to quit and focus on game developments
+Active again on hackerone bugbounty
 
 ```
 🏫 Studying Information Technology
