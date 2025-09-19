@@ -1,5 +1,5 @@
 Hi there I'm Coookie
-I've been practicing coding as a hobby for 14 years now.
+I've been doing this hobby since 2009. :D
 
 Active again on hackerone bugbounty
 
